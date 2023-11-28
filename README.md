@@ -8,7 +8,9 @@ In this notebook, I benchmark those different implementations of both classical 
 
 
 **T4:** 
+
 ![t4](figures/t4_tritton.png) 
 
 **V100:**
+
 ![v100](figures/v100_triton.png)
