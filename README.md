@@ -14,3 +14,7 @@ In this notebook, I benchmark those different implementations of both classical 
 **V100:**
 
 ![v100](figures/v100_triton.png)
+
+**A100:**
+
+![A100](figures/A100_triton.png)
